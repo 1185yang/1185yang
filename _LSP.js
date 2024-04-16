@@ -14,7 +14,7 @@ const settingConfigName = 'settings.json';
 // 分支
 const branch = 'master';
 // 仓库根目录
-const remoteRoot = `https://raw.githubusercontent.com/1185yang/1185yang/main/${branch}`;
+const remoteRoot = `https://github.com/1185yang/1185yang/tree/main/${branch}`;
 
 // @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 // @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
